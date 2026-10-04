@@ -22,4 +22,4 @@ When something Collide told you changes what you do, say so to the user in one p
 
 ## When the repository is not connected
 
-If the session starts with "this repository is not connected", tell the user once that `/collide:login` connects it (a browser sign-in), and carry on with the task.
+If the session starts with "this repository is not connected", tell the user once that Collide's login skill connects it (a browser sign-in), and carry on with the task.

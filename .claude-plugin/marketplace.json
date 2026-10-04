@@ -8,7 +8,9 @@
     {
       "name": "collide",
       "source": "./",
-      "description": "Several Claude Code agents on one repo, without the collisions."
+      "description": "Several coding agents on one repo, without the collisions.",
+      "version": "0.2.0"
     }
-  ]
+  ],
+  "description": "Collide: run several coding agents on one repository without them overwriting each other."
 }

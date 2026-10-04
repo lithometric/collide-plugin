@@ -36,7 +36,7 @@ That is all. The next session sets Collide up for every repository on this machi
 - `hooks/hooks.json`: the Claude Code hooks (session start, prompt, every read, edit and command, failed calls, stop), all run through `bin/collide`.
 - `bin/collide`: the launcher. It fetches the pinned `collide-hook` binary once and runs it; it fails open.
 - `skills/collide`: teaches your agent how to read what Collide tells it (briefings, Δ lines, blocked writes, landings) and to say when a teammate's work changed its plan.
-- `commands/`: `/collide:login` and `/collide:status`.
+- `skills/login` and `skills/status`: sign the machine in and see what Collide is doing (`/collide:login` and `/collide:status` in Claude Code).
 
 The MCP server is optional. To give your agent Collide's tools as well (look up any symbol, blast radius, team memory), add it once: `claude mcp add --transport http collide https://mcp.collidemcp.com`.
 
