@@ -1,4 +1,4 @@
-# Collide for Claude Code: multiple Claude Code agents, one repo, no conflicts
+# Collide MCP for Claude Code: multiple Claude Code agents, one repo, no conflicts
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-34d399.svg)](LICENSE)
 [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-111.svg)](#install)
