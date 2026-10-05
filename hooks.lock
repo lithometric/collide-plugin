@@ -1,8 +1,8 @@
 # collide-hook builds this plugin runs, pinned by scripts/pin.sh. Any download
 # whose SHA-256 differs is refused. Updates after install are signed by Collide.
-version 66
-aarch64-apple-darwin b1c4fad32d499bbbd8de04e033b3dcf20e1d4a242cb2de1cbd52dc0718f0a472
-aarch64-unknown-linux-gnu 9790af6f39b9f2b96d9f937f49430d3cf8a7b71e4b41d5bf939cbdde4d425fb4
-x86_64-apple-darwin 6cf6aac80a5fa314ab454e08805222cbbb25100a0bc72599246b400a95671689
-x86_64-pc-windows-msvc 6ae83550e63032ebd9885446d3c1b75d07ebb420733cd89f344b9d74a84213a9
-x86_64-unknown-linux-gnu 752544bf9048fbd5c1c736aca0b76d6dba2aee6a532996f3bd63df92b322d6b3
+version 67
+aarch64-apple-darwin 0318ca9ea3728117ce692982a321b2f48101a9da1531feb6030f2c8f59ffe2b0
+aarch64-unknown-linux-gnu 0981d992e7b6411cb2b7f11d9eea9176cc388bb44ca7ff31a17b1b69f9c081aa
+x86_64-apple-darwin d6880d2fb8f607c09fd5fd099517d06983665fb88adba0242d48826c5d571c76
+x86_64-pc-windows-msvc 7784989e3adcdb18bee37ece7f01c8a7b728d9c5611590006ba8a87ea4fb1397
+x86_64-unknown-linux-gnu fe0b38ca366aa56e0cca596ee99e741c62e51b3ca634123a303f2f8ea56c5c43
