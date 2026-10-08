@@ -1,3 +1,5 @@
+> **This repository has moved to [lithometric/collidemcp](https://github.com/lithometric/collidemcp)** (the plugin is in `plugin/`). Install with `/plugin marketplace add lithometric/collidemcp`. This copy is archived; existing installs keep working.
+
 # Collide MCP for Claude Code: multiple Claude Code agents, one repo, no conflicts
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-34d399.svg)](LICENSE)
